@@ -1,6 +1,6 @@
 # NumPy Mini Project — Student Performance Analyzer
 
-A tiny beginner project built from the basic NumPy and Matplotlib operations used in the course notebooks.
+A tiny beginner project built from the basic NumPy and Matplotlib operations used.
 
 The project takes a small matrix of student scores and uses NumPy to calculate statistics, perform a weighted score with matrix multiplication, and visualize the results.
 
